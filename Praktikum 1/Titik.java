@@ -1,3 +1,10 @@
+/**
+Nama file : Titik.java
+Nama/NIM : Hana Shabrina/24060121130077
+Tanggal : 24 februari 2023
+Deskripsi : Kelas yang berisi realisasi untuk menjalankan kelas MTitik
+**/
+
 class Titik {
 	
 	double absis;
