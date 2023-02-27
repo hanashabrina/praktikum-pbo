@@ -1,3 +1,11 @@
+/**
+Nama file : MTitik.java
+Nama/NIM : Hana Shabrina/24060121130077
+Tanggal : 24 februari 2023
+Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas Titik
+**/
+
+
 class MTitik {
 	
 	public static void main(String[] args){
