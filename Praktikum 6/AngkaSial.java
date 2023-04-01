@@ -2,7 +2,7 @@
 * File		: AngkaSial.java 30/03/2023
 * Penulis	: Hana Shabrina/24060121130077
 * Deskripsi	: Program penggunaan exception buatan sendiri
-			pengenalan klausa 'throw' dan 'throws'
+		pengenalan klausa 'throw' dan 'throws'
 * Lab		: B1
 */
 
