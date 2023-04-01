@@ -2,7 +2,7 @@
 * File		: Asersi2.java 30/03/2023
 * Penulis	: Hana Shabrina/24060121130077
 * Deskripsi	: Program untuk demo asersi, yang akan menolak input
-			jari-jari lingkaran yang bernilai nol
+		jari-jari lingkaran yang bernilai nol
 * Lab		: B1
 */
 
