@@ -1,5 +1,5 @@
 /**
-* File		: LambdaList.java 31/05/2023
+* File		: LambdaHashmap.java 31/05/2023
 * Penulis	: Hana Shabrina/24060121130077
 * Deskripsi	: Implementasi lambda pada hash map
 * Lab		: B1
